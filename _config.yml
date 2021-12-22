@@ -1,3 +1,13 @@
 theme: jekyll-theme-merlot
 title: Techmasters homepage
 discription: webpage including resume,favorite downloads and webhacks
+lsi: false
+safe: true
+source: [your repo's top level directory]
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
